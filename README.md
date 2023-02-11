@@ -1,4 +1,4 @@
-# process_cyc_freq_anom
+#
 
 This code is for scientific processing and analysis of netCDF data. 
 It is used for analysis of the surface response to extreme events in Earth's stratosphere (known as weak and strong vortex states) in two types of datasets:
