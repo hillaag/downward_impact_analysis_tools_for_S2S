@@ -18,7 +18,7 @@ It is used for analysis of the surface response to extreme events in Earth's str
 * For the majority of our analysis, we use ECMWF reforecasts from the model cycle 46R1 with 24-hourly instantaneous output.
 * For full cyclone track life cycles, we use 6-hourly output from several ECMWF model versions with the cycles 47R1, 47R2 and 47R3.
 * SSWs are defined as a reversal of the zonal mean zonal winds at 60$^\circ$N and 10 hPa from westerly to easterly during the extended winter period from November to March, excluding final warming events. The central date of the SSW is defined as the first day on which the daily zonal mean zonal winds are easterly. This definition follows  Charlton and Polvani (2007) and is commonly used in the literature Butler et al., 2017.
-* For moree details on the downward impact after SSW evnets, see: Afargan-Gerstman and Domeisen, 2020 and Afargan-Gerstman et al., 2022.
+* For more details on the downward impact after SSW events, see: Afargan-Gerstman and Domeisen, 2020 and Afargan-Gerstman et al., 2022.
 
 ## For questions and further data requests, please contact:
 Dr. Hilla Afaragn-Gerstman (ETH, Zurich)
